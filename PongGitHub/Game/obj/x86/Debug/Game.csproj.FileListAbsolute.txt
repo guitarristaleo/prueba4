@@ -1,0 +1,30 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Alumno\Downloads\2013-10-31a0-game04b2_vs2010\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Alumno\Downloads\2013-10-31a0-game04b2_vs2010\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Alumno\Downloads\2013-10-31a0-game04b2_vs2010\Game\Game\bin\Debug\Game.exe
+C:\Users\Alumno\Downloads\2013-10-31a0-game04b2_vs2010\Game\Game\bin\Debug\Game.pdb
+C:\Users\Alumno\Downloads\2013-10-31a0-game04b2_vs2010\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.exe
+E:\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.pdb
+E:\Fuentes\Pong\Game\Game\bin\Debug\Game.exe
+E:\Fuentes\Pong\Game\Game\bin\Debug\Game.pdb
+E:\Fuentes\Pong\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.exe
+G:\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.pdb
+G:\Fuentes\Pong\Game\Game\bin\Debug\Game.exe
+G:\Fuentes\Pong\Game\Game\bin\Debug\Game.pdb
+G:\Fuentes\Pong\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\g-leo\Desktop\Dropbox\.1º DAM (personal)\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\g-leo\Desktop\Dropbox\.1º DAM (personal)\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\g-leo\Desktop\Dropbox\.1º DAM (personal)\Fuentes\Pong\Game\Game\bin\Debug\Game.exe
+C:\Users\g-leo\Desktop\Dropbox\.1º DAM (personal)\Fuentes\Pong\Game\Game\bin\Debug\Game.pdb
+C:\Users\g-leo\Desktop\Dropbox\.1º DAM (personal)\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\g_leo\Dropbox\1º DAM (personal)\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\g_leo\Dropbox\1º DAM (personal)\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\g_leo\Dropbox\1º DAM (personal)\Fuentes\Pong\Game\Game\bin\Debug\Game.exe
+C:\Users\g_leo\Dropbox\1º DAM (personal)\Fuentes\Pong\Game\Game\bin\Debug\Game.pdb
+C:\Users\g_leo\Dropbox\1º DAM (personal)\Fuentes\Pong\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
